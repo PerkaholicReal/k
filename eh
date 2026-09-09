@@ -1,8 +1,8 @@
 -- funny
 
-local _ = require(game:GetService('ReplicatedStorage').Code.assets.gameVersion).default
+-- HAHA
 
-game:GetService('Players').LocalPlayer:Kick('Game Version Outdated.\nPlease Report This to VoldHub Discord.\n.gg/UzW6yn5mTr')
+-- nigger
 
 local _17 = loadstring(game:HttpGet('https://raw.githubusercontent.com/PerkaholicReal/k/refs/heads/main/hahaha'))()
 local _call19 = _17:MakeWindow({
